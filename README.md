@@ -17,6 +17,7 @@
 - 📫 How to reach me: nathnael.minuta@mnsu.edu, https://linktr.ee/nathnaelminuta
 - ⚡ Fun fact: I love stargazing, road trips, and soccer! 🌍🌌⚽
 
-
+### 🏆 **LeetCode Stats**
+<img src="https://leetcard.jacoblin.cool/nathnaelminuta?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats">
   
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="40" height="40">](https://www.instagram.com/nathnael_kebede) [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="40" height="40">](https://www.linkedin.com/in/nathnaelminuta) [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" width="40" height="40">](https://linktr.ee/nathnaelminuta) [<img src="https://static.vecteezy.com/system/resources/previews/004/283/899/non_2x/nk-logo-monogram-emblem-style-with-crown-shape-design-template-free-vector.jpg" width="40" height="40">](https://naticr70921740189.wixsite.com/nathnael-portfolio) [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40">](https://leetcode.com/nathnaelminuta)
