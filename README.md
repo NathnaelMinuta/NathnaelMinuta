@@ -1,6 +1,6 @@
 ### Hi there! 👋
 # <p align="center"><u>I'm Nathnael Minuta</u></p>
-## <p align="center"><u>Honors Electrical and Computer Engineering Sophomore student @ MNSU</u></p>
+## <p align="center"><u>Honors Junior Electrical and Computer Engineering Student @ MNSU</u></p>
 
 - 🔭 I’m currently working on automation projects, AI-powered waveform generation, and my smart glasses project using Jetson Orin.
 - 🚀 Upcoming: Software Engineering Intern @ Salesforce (Summer 2025), focusing on AI-driven solutions and automation.
