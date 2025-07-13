@@ -2,14 +2,14 @@
 # <p align="center"><u>I'm Nathnael Minuta</u></p>
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"></p>
 
-## <p align="center"><u>Honors Junior Electrical and Computer Engineering Student @ MNSU</u></p>
+## <p align="center"><u>Honors Senior Electrical and Computer Engineering Student @ MNSU</u></p>
 - 🔭 I’m currently working on automation projects, AI-powered waveform generation, and my smart glasses project using Jetson Orin.
-- 🚀 Software Engineer Intern @ Salesforce (Summer 2025), focusing on AI-driven solutions and automation.
+- 🚀 Software Engineer Intern @ Salesforce, focusing on AI-driven solutions and automation.
 - 💼 Previously: Software/Application Engineering Intern @ Tektronix, where I developed test & measurement automation tools and worked on waveform generation.
 - 👯 I’m looking to collaborate on Hackathons, projects, startups, and AI-driven applications – let’s innovate together!
 - 🎤 I actively attend NSBE, IEEE Rising Stars, and Bloomberg Empowers, expanding my network and industry insights.
 - 🏆 Leadership & Achievements:
-  - Software Engineering Intern @ Salesforce (Summer 2025) ☁️
+  - Software Engineering Intern @ Salesforce ☁️
   - IEEE Region 4 Outstanding Student Award Winner ⚡
   - Treasurer of NSBE @ MNSU (Back-to-Back) 💰
   - General Secretary, IEEE MNSU Chapter
