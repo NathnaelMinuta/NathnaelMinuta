@@ -8,6 +8,11 @@
 - 💼 Previously: Software/Application Engineering Intern @ Tektronix, where I developed test & measurement automation tools and worked on waveform generation.
 - 👯 I’m looking to collaborate on Hackathons, projects, startups, and AI-driven applications – let’s innovate together!
 - 🎤 I actively attend NSBE, IEEE Rising Stars, and Bloomberg Empowers, expanding my network and industry insights.
+- 🚀 Featured Projects:
+  - **InnoVision Smart Glasses 👓** – Assistive device for the visually impaired (YOLOv9 + Jetson Orin).
+  - **AI-Powered Waveform Generator 🌊** – LLM + Python to generate test waveforms (NRZ, PAM4, sine, etc.) & integrate with T&M tools.
+  - **Python Automation for Test & Measurement ⚡**: Built Python-based automation workflows for oscilloscope control
+  - **CrowdStrike Metrics Dashboard 📊** – ETL + Tableau @ Salesforce.
 - 🏆 Leadership & Achievements:
   - Software Engineering Intern @ Salesforce ☁️
   - IEEE Region 4 Outstanding Student Award Winner ⚡
