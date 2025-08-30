@@ -5,9 +5,8 @@
 ## <p align="center"><u>Honors Senior Electrical and Computer Engineering Student @ MNSU</u></p>
 - 🔭 I’m currently working on automation projects, AI-powered waveform generation, and my smart glasses project using Jetson Orin.
 - 🚀 Software Engineer Intern @ Salesforce, focusing on AI-driven solutions and automation.
-- 💼 Previously: Software/Application Engineering Intern @ Tektronix, where I developed test & measurement automation tools and worked on waveform generation.
+- 💼 Previously: Software/Application Engineer Intern @ Tektronix, where I developed test & measurement automation tools and worked on waveform generation.
 - 👯 I’m looking to collaborate on Hackathons, projects, startups, and AI-driven applications – let’s innovate together!
-- 🎤 I actively attend NSBE, IEEE Rising Stars, and Bloomberg Empowers, expanding my network and industry insights.
 - 🚀 Featured Projects:
   - **InnoVision Smart Glasses 👓** – Assistive device for the visually impaired (YOLOv9 + Jetson Orin).
   - **AI-Powered Waveform Generator 🌊** – LLM + Python to generate test waveforms (NRZ, PAM4, sine, etc.) & integrate with T&M tools.
