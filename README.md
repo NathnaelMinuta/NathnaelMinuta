@@ -21,40 +21,46 @@
 - 📫 How to reach me: nathnael.minuta@mnsu.edu, https://linktr.ee/nathnaelminuta
 - ⚡ Fun fact: I love stargazing, road trips, and soccer! 🌍🌌⚽
 
-## 🏆 **LeetCode & GitHub Stats**  
+## 🏆 LeetCode & GitHub Stats
 <table>
-  <tr>
-    <td align="center"><b>LeetCode Stats</b></td>
-    <td align="center"><b>GitHub Stats</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/nathnaelminuta?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=NathnaelMinuta&show_icons=true&theme=radical">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathnaelMinuta&layout=compact&theme=radical">
-    </td>
-  </tr>
+<tr>
+<td align="center">
+
+### LeetCode Stats
+<img src="https://leetcard.jacoblin.cool/nathnaelminuta?theme=dark&font=JetBrains%20Mono&ext=contest">
+
+</td>
+
+<td align="center">
+
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=NathnaelMinuta&show_icons=true&theme=radical&cache_seconds=86400">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathnaelMinuta&layout=compact&theme=radical&cache_seconds=86400">
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🏆 **GitHub Achievements & Visitor Counter**
+## 🏆 GitHub Achievements & Visitor Counter
 <table>
-  <tr>
-    <td align="center"><b>GitHub Achievements</b></td>
-    <td align="center"><b>Visitor Counter</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=NathnaelMinuta&theme=radical&row=1&column=6">
-    </td>
-    <td align="center">
-      <img src="https://komarev.com/ghpvc/?username=NathnaelMinuta&color=blue">
-    </td>
-  </tr>
+<tr>
+<td align="center">
+
+### GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=NathnaelMinuta&theme=radical&no-frame=true&row=1&column=6">
+
+</td>
+
+<td align="center">
+
+### Visitor Counter
+<img src="https://komarev.com/ghpvc/?username=NathnaelMinuta&label=Profile%20Views&color=0e75b6&style=flat">
+
+</td>
+</tr>
 </table>
 
 ---
