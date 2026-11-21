@@ -1,79 +1,50 @@
-### Hi there! 👋
-# <p align="center"><u>I'm Nathnael Minuta</u></p>
-<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"></p>
 
-## <p align="center"><u>Honors Senior Electrical and Computer Engineering Student @ MNSU</u></p>
-- 🔭 I’m currently working on automation projects, AI-powered waveform generation, and my smart glasses project using Jetson Orin.
-- 🚀 Software Engineer Intern @ Salesforce, focusing on AI-driven solutions and automation.
-- 💼 Previously: Software/Application Engineer Intern @ Tektronix, where I developed test & measurement automation tools and worked on waveform generation.
-- 👯 I’m looking to collaborate on Hackathons, projects, startups, and AI-driven applications – let’s innovate together!
-- 🚀 Featured Projects:
-  - **InnoVision Smart Glasses 👓** – Assistive device for the visually impaired (YOLOv9 + Jetson Orin).
-  - **AI-Powered Waveform Generator 🌊** – LLM + Python to generate test waveforms (NRZ, PAM4, sine, etc.) & integrate with T&M tools.
-  - **Python Automation for Test & Measurement ⚡**: Built Python-based automation workflows for oscilloscope control
-  - **CrowdStrike Metrics Dashboard 📊** – ETL + Tableau @ Salesforce.
-- 🏆 Leadership & Achievements:
-  - Software Engineering Intern @ Salesforce ☁️
-  - IEEE Region 4 Outstanding Student Award Winner ⚡
-  - Treasurer of NSBE @ MNSU (Back-to-Back) 💰
-  - General Secretary, IEEE MNSU Chapter
-- 💬 Ask me about: AI, embedded systems, Python automation, tech career advice, or my latest stargazing adventure!
-- 📫 How to reach me: nathnael.minuta@mnsu.edu, https://linktr.ee/nathnaelminuta
-- ⚡ Fun fact: I love stargazing, road trips, and soccer! 🌍🌌⚽
+<div align="center">
 
-## 🏆 LeetCode & GitHub Stats
-<table>
-<tr>
-<td align="center">
+# Hey, I'm Nathnael!
 
-### LeetCode Stats
-<img src="https://leetcard.jacoblin.cool/nathnaelminuta?theme=dark&font=JetBrains%20Mono&ext=contest">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineer+%40+Salesforce;Engineer+by+training%2C+builder+by+curiosity;Always+learning+something+new..." alt="Typing SVG">
 
-</td>
-
-<td align="center">
-
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=NathnaelMinuta&show_icons=true&theme=radical&cache_seconds=86400">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathnaelMinuta&layout=compact&theme=radical&cache_seconds=86400">
 
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF">
 
----
+<br><br>
 
-## 🏆 GitHub Achievements & Visitor Counter
-<table>
-<tr>
-<td align="center">
+Software Engineer @ **Salesforce** ☁️, with a background in Electrical & Computer Engineering.
 
-### GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=NathnaelMinuta&theme=radical&no-frame=true&row=1&column=6">
+Interested in **AI, software, and embedded systems** especially where they overlap.
 
-</td>
+Outside of tech, I enjoy soccer, astronomy, and traveling.
 
-<td align="center">
+<br>
 
-### Visitor Counter
-<img src="https://komarev.com/ghpvc/?username=NathnaelMinuta&label=Profile%20Views&color=0e75b6&style=flat">
+<img src="https://komarev.com/ghpvc/?username=NathnaelMinuta&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views">
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 💬 **Quote of the Day**
-> "Strive not to be a success, but rather to be of value." – Albert Einstein  
+### A Little GitHub Activity
 
-<!-- Alternatively, you can use another working API -->
-<!-- <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
-</p> -->
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NathnaelMinuta&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathnaelMinuta&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages">
+
+</div>
 
 ---
 
+<div align="center">
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="40" height="40">](https://www.instagram.com/nathnael_kebede) [<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="40" height="40">](https://www.linkedin.com/in/nathnaelminuta) [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" width="40" height="40">](https://linktr.ee/nathnaelminuta) [<img src="https://static.vecteezy.com/system/resources/previews/004/283/899/non_2x/nk-logo-monogram-emblem-style-with-crown-shape-design-template-free-vector.jpg" width="40" height="40">](https://naticr70921740189.wixsite.com/nathnael-portfolio) [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40">](https://leetcode.com/nathnaelminuta)
+### Find Me Around the Web
+
+<a href="https://www.linkedin.com/in/nathnaelminuta"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/nathnael_kebede"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" alt="Instagram"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linktr.ee/nathnaelminuta"><img src="https://cdn.simpleicons.org/linktree/43E55E" width="35" alt="Linktree"></a>
+
+</div>
