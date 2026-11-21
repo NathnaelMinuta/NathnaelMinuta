@@ -11,7 +11,7 @@
 
 <br><br>
 
-Software Engineer @ **Salesforce** ☁️, with a background in Electrical & Computer Engineering.
+Software Engineer, with a background in Electrical & Computer Engineering.
 
 Interested in **AI, software, and embedded systems** especially where they overlap.
 
